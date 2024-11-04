@@ -14,7 +14,7 @@ This repository covers introductory topics in Machine Learning theory, including
 ### [Bayesian Machine Learning](https://github.com/Mahishashemirani/Bayesian-Machine-Learning)
 Here, I showcase an alternative approach to machine learning that focuses on inferring probability distributions instead of relying solely on point-wise estimations. This repository contains Bayesian implementations of Linear and Logistic Regressions. The accompanying READMEs provide a good introduction to Bayesian methods, and the visualizations included can be quite enjoyable to explore!
 
-### Deep Learning(https://github.com/Mahishashemirani/Deep-Learning)
+### [Deep Learning](https://github.com/Mahishashemirani/Deep-Learning)
 This repository documents my journey in learning about deep neural networks. The codes here are more complex and may require some prior familiarity with the topic. However, the READMEs are thorough, and I've included some engaging visualizations that I highly recommend checking out!
 
 ### Economics Related Codes
