@@ -17,8 +17,8 @@ As I look ahead, I am preparing for my next academic step by seeking a Master’
 I'm eager to connect with fellow enthusiasts and professionals in finance and technology. Feel free to reach out for collaboration or to share insights!
 
 - 📧 **Email**: Mahishashemirani@gmail.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/Mahisha-shemirani)
+- 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/Mahisha-shemirani)
 
 ---
 
-Thank you for visiting my profile! I am excited about the journey ahead and look forward to contributing to the academic community with my passion and skills. 🚀
+Thank you for visiting my profile!
