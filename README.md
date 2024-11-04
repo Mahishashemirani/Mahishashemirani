@@ -1,16 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm **Mahisha Shemirani**, a passionate financial management major with a strong interest in the intersection of **finance** and **technology**. My journey into the world of finance began in high school, inspired by a remarkable economics teacher who encouraged my innovative thoughts. This experience ignited my love for economics and motivated me to pursue a degree in financial management, where I have excelled in subjects like **Risk Management**, **Finance**, **Microeconomics**, **Macroeconomics**, and **Econometrics**.
-
-## 🚀 About Me
-
-- 🎓 **Education**: Currently pursuing a bachelor's degree in Financial Management, where I have developed a solid understanding of financial principles and concepts.
-- 💻 **Technical Skills**: I have completed online certifications in **Python programming** and **Data Science** from Harvard, which enable me to integrate programming into financial projects effectively.
-- 📊 **Projects**: I am actively working on several projects involving financial modeling, data analysis, and machine learning, striving to develop meaningful insights that bridge the gap between finance and technology.
-
-## 🎯 Goals
-
-As I look ahead, I am preparing for my next academic step by seeking a Master’s in Finance, where I can dive deeper into financial analysis, investment strategies, and risk management. My long-term ambition is to pursue a PhD in Finance and work as a professional financial manager or in a leadership role within the financial sector.
+# Interests
+I am particularly interested in the intersection of data science, economics, and finance. Financial systems are inherently complex, characterized by numerous interdependent parameters that significantly influence their behavior. Many classical models often fall short, either failing to capture the intricacies of these systems or providing only partial insights. I am eager to leverage recent advancements in applied mathematics and computer science, such as Deep learning and Bayesian methods, to study and engineer financial systems.
 
 ## 📫 Get in Touch
 
